@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/04/18 23:09:33.847,=C:\Users\Computador Acer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/18 23:11:25.409,C:\Users\Computador Acer\Desktop\delphi\Cadastro do Clientes\UnitPrincipal.pas=C:\Users\Computador Acer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/18 23:11:25.409,C:\Users\Computador Acer\Desktop\delphi\Cadastro do Clientes\UnitPrincipal.dfm=C:\Users\Computador Acer\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/04/18 23:11:47.922,C:\Users\Computador Acer\Desktop\delphi\Cadastro do Clientes\BancoDeDados.pas=C:\Users\Computador Acer\Desktop\delphi\Cadastro do Clientes\UnitPrincipal.pas</Transaction>
+    <Transaction>2019/04/18 23:11:47.922,C:\Users\Computador Acer\Desktop\delphi\Cadastro do Clientes\BancoDeDados.dfm=C:\Users\Computador Acer\Desktop\delphi\Cadastro do Clientes\UnitPrincipal.dfm</Transaction>
+    <Transaction>2019/04/18 23:35:58.259,C:\Users\Computador Acer\Desktop\delphi\Cadastro do Clientes\Clientes.dproj=C:\Users\Computador Acer\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
